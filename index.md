@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the University of Wisconsin-Madison, advised by <a href="https://swamittannu.com/">Prof. Swamit Tannu</a>. I completed my undergraduate studies at <a href="http://dtu.ac.in/">Delhi Technological University</a> where I was advised by Prof. Neeta Pandey. Prior to starting grad school, I was an R&D Engineer at Synopsys, Inc. where I worked on protocol transactors used for hardware emulation.
+I am a Ph.D. student at the [University of Wisconsin-Madison](https://www.wisc.edu/), advised by <a href="https://swamittannu.com/">Prof. Swamit Tannu</a>. I completed my undergraduate studies at <a href="http://dtu.ac.in/">Delhi Technological University</a> where I was advised by Prof. Neeta Pandey. Prior to starting grad school, I was an R&D Engineer at Synopsys, Inc. where I worked on protocol transactors used for hardware emulation.
 
 Outside of research, I enjoy biking (in good weather), gaming (I love playing Counter-Strike), reading (I enjoy fantasy books and crime thrillers), music (I have been playing the guitar since I was 13 and I also --try-- to sing). I also enjoy cooking, I can cook the North Indian dish called Dal Makhani very well.
 
