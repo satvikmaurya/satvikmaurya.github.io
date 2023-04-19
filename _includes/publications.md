@@ -31,7 +31,7 @@
         <abbr class="badge">AMD GTAC</abbr>
       </div>
       <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-        <div class="title"><a href=""></a>Making a Case for Heterogeneous Workload Tests for More Robust Dynamic Power Management”</div>
+        <div class="title"><a href=""></a>Making a Case for Heterogeneous Workload Tests for More Robust Dynamic Power Management</div>
         <div class="author"><strong>Satvik Maurya</strong>, Heather Hanson, Yasuko Eckert, Raj Desikan</div>
         <div class="periodical"><em>AMD Global Technical Authors Conference <strong>(GTAC)</strong>, 2022.</em></div>
         <div class="links">
