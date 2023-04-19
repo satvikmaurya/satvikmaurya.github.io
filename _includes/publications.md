@@ -52,7 +52,7 @@
         <abbr class="badge">MICRO</abbr>
       </div>
       <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-        <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9923861"></a>COMPAQT: Compressed Waveform Memory Architecture for Scalable Qubit Control”</div>
+        <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9923861"></a>COMPAQT: Compressed Waveform Memory Architecture for Scalable Qubit Control</div>
         <div class="author"><strong>Satvik Maurya</strong>, Swamit Tannu</div>
         <div class="periodical"><em>International Symposium on Microarchitecture <strong>(MICRO)</strong>, 2022.</em></div>
         <div class="links">
@@ -73,7 +73,7 @@
         <abbr class="badge">MWSCAS</abbr>
       </div>
       <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-        <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/8885136"></a>Hardware/Software Co-Design of a High-Speed Othello Solver”</div>
+        <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/8885136"></a>Hardware/Software Co-Design of a High-Speed Othello Solver</div>
         <div class="author">Pranav Gangwar, <strong>Satvik Maurya</strong>, Shubham Garg, Sakshi Goyal, Aditya S Kumar, Preyesh Dalmia, Neeta Pandey</div>
         <div class="periodical"><em>International Midwest Symposium on Circuits and Systems <strong>(MWSCAS)</strong>, 2019.</em></div>
         <div class="links">
