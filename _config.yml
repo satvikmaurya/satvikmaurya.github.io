@@ -28,6 +28,7 @@ favicon_dark: ./assets/img/favicon_csgo.jpg
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: true
 
+enable_google_verification: true
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
 # google_analytics: UA-111540567-4
