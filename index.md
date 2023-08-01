@@ -16,6 +16,7 @@ Outside of research, I enjoy biking (in good weather), gaming (I love playing Co
 
 ## News
 
+- **[May 2023]** A patent application I worked on at AMD Research (Event-Triggered Dynamic Power Management) has been submitted to the USPTO! 
 - **[March 2023]** I presented our work HERQULES at the APS March Meeting in Las Vegas!
 - **[March 2023]** Our paper HERQULES was accepted at ISCA 2023!
 - **[November 2022]** I have been awarded the [Hiran Mayuk](https://research.cs.wisc.edu/arch/uwarch-wiki2/index.php/Main/HiranMayuk) award by UW Computer Architecture!
