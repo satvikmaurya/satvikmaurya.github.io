@@ -16,6 +16,7 @@ Outside of research, I enjoy biking (in good weather), gaming (I love playing Co
 
 ## News
 
+- **[December 2023]** I will be interning in the quantum hardware team at IBM Research in the Summer of 2024!
 - **[May 2023]** A patent application I worked on at AMD Research (Event-Triggered Dynamic Power Management) has been submitted to the USPTO! 
 - **[March 2023]** I presented our work HERQULES at the APS March Meeting in Las Vegas!
 - **[March 2023]** Our paper HERQULES was accepted at ISCA 2023!
