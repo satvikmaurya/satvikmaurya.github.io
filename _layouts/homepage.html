@@ -102,7 +102,63 @@
       {{ content }}
 
       <br>
-
+      
+      <div id="map"></div>
+      <script>
+        const visitedCountries = ["USA", "CAN", "ARE", "BEL", "DEU", "FRA", "GBR", "IND", "LSO", "MUS", "MYS", "NLD", "SGP", "THA", "ZAF", "AUT", "SWE", "CHE", "DNK"]; // Example list of visited countries (use ISO 3166-1 alpha-3 country codes)
+      
+        var map = L.map('map').setView([20, 0], 2); // Center the map on the world
+      
+        // Add OpenStreetMap tiles
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          maxZoom: 5,
+          attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+      
+        // Style function to highlight visited countries
+        function style(feature) {
+          return {
+            fillColor: visitedCountries.includes(feature.id) ? '#ff6347' : '#cccccc', // Highlight visited countries
+            weight: 1,
+            opacity: 1,
+            color: 'white',
+            fillOpacity: 0.7
+          };
+        }
+      
+        // Event handler for country hover
+        function onEachFeature(feature, layer) {
+          layer.on({
+            mouseover: function(e) {
+              var layer = e.target;
+              layer.setStyle({
+                weight: 2,
+                color: '#666',
+                fillOpacity: 1
+              });
+              layer.bindTooltip(feature.properties.name, {
+                permanent: false,
+                direction: "auto"
+              }).openTooltip();
+            },
+            mouseout: function(e) {
+              geojson.resetStyle(e.target);
+            }
+          });
+        }
+      
+        // Fetch and display the GeoJSON data for the world map
+        var geojson = L.geoJson(null, {
+          style: style,
+          onEachFeature: onEachFeature
+        }).addTo(map);
+      
+        // Load the GeoJSON world map from a URL
+        fetch('https://raw.githubusercontent.com/johan/world.geo.json/master/countries.geo.json')
+          .then(response => response.json())
+          .then(data => geojson.addData(data));
+      </script>
+        
       {% if site.enable_footnote %}
       <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
       {% endif %}
