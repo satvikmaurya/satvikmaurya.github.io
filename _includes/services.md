@@ -1,5 +1,11 @@
 ## Services
 
+<h4 style="margin:0 10px 0;">Program Committee</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://rsvp.duke.edu/event/qip2025/summary"><autocolor>(Subreviewer) Annual Quantum Information Processing Conference (QIP 2025)</autocolor></a></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Artifact Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
