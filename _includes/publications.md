@@ -7,6 +7,27 @@
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <img src="assets/img/herqules.png" class="teaser img-fluid z-depth-1">
+      <abbr class="badge">QCE</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/2405.08962">Understanding Side-Channel Vulnerabilities in Superconducting Qubit Readout Architectures</a></div>
+      <div class="author"><strong>Satvik Maurya</strong>, Chaithanya Naik Mude, Benjamin Lienhard, Swamit Tannu</div>
+      <div class="periodical"><em>2024 IEEE Conference on Quantum Computing and Engineering <strong>(QCE 2024)</strong></em></div>
+      <div class="links">
+        <a href="https://arxiv.org/pdf/2405.08962" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+        <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+        <a href="https://dblp.org/rec/journals/corr/abs-2405-08962" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+<!--         <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+      </div>
+    </div>
+  </div>
+  </li>
+
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="assets/img/herqules.png" class="teaser img-fluid z-depth-1">
       <abbr class="badge">ISCA</abbr>
     </div>
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
