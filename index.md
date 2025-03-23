@@ -16,10 +16,13 @@ Outside of research, I enjoy biking (in good weather), gaming (I love playing Co
 
 ## News
 
+- **[March 2025]** Our work on synchronization for fault-tolerant quantum computers has been accepted at ISCA 2025!
+- **[February 2025]** Our work on multi-level readout classifiers has been accepted at DAC 2025.
+- **[January 2025]** I will be returning to IBM Research for the summer of 2025.
+- **[July 2024]** Our work on side-channel attacks via readout crosstalk has been accepted at QCE 2024.
 - **[April 2024]** I have been selected to attend the Heidelberg Laureate Forum in Germany!
 - **[December 2023]** I will be interning in the quantum hardware team at IBM Research in the Summer of 2024!
 - **[May 2023]** A patent application I worked on at AMD Research (Event-Triggered Dynamic Power Management) has been submitted to the USPTO! 
-- **[March 2023]** I presented our work HERQULES at the APS March Meeting in Las Vegas!
 - **[March 2023]** Our paper HERQULES was accepted at ISCA 2023!
 
 {% include_relative _includes/publications.md %}
