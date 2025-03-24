@@ -1,5 +1,11 @@
 ## Services
 
+<h4 style="margin:0 10px 0;">Outreach</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://quest-lab.cs.wisc.edu/outreach/index.html"><autocolor>System Architectures for Quantum Measurements (Tutorial, MICRO 2024)</autocolor></a></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Program Committee</h4>
 
 <ul style="margin:0 0 5px;">
