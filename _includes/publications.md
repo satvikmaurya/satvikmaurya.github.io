@@ -12,7 +12,7 @@
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="">Synchronization for Fault-Tolerant Quantum Computers</a></div>
       <div class="author"><strong>Satvik Maurya</strong>, Swamit Tannu</div>
-      <div class="periodical"><em>International Symposium on Computer Architecture <strong>(ISCA 2025)</strong></em></div>
+      <div class="periodical"><em>International Symposium on Computer Architecture <strong>(ISCA)</strong>, 2025</em></div>
       <div class="links">
 <!--         <a href="https://arxiv.org/abs/2405.08982" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
         <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
@@ -33,7 +33,7 @@
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2405.08982">Efficient and Scalable Architectures for Multi-level Superconducting Qubit Readout</a></div>
       <div class="author">Chaithanya Naik Mude, <strong>Satvik Maurya</strong>, Benjamin Lienhard, Swamit Tannu</div>
-      <div class="periodical"><em>Design Automation Conference <strong>(DAC 2025)</strong></em></div>
+      <div class="periodical"><em>Design Automation Conference <strong>(DAC)</strong>, 2025</em></div>
       <div class="links">
         <a href="https://arxiv.org/abs/2405.08982" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
         <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
@@ -54,7 +54,7 @@
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/2405.08962">Understanding Side-Channel Vulnerabilities in Superconducting Qubit Readout Architectures</a></div>
       <div class="author"><strong>Satvik Maurya</strong>, Chaithanya Naik Mude, Benjamin Lienhard, Swamit Tannu</div>
-      <div class="periodical"><em>2024 IEEE Conference on Quantum Computing and Engineering <strong>(QCE 2024)</strong></em></div>
+      <div class="periodical"><em>2024 IEEE Conference on Quantum Computing and Engineering <strong>(QCE)</strong>, 2024</em></div>
       <div class="links">
         <a href="https://arxiv.org/pdf/2405.08962" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
         <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
