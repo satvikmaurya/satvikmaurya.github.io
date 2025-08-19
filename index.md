@@ -16,6 +16,7 @@ Outside of research, I enjoy biking, gaming (I love playing Counter-Strike), rea
 
 ## News
 
+- **[August 2025]** decoder-bench has been accepted at IISWC 2025.
 - **[March 2025]** Our work on synchronization for fault-tolerant quantum computers has been accepted at ISCA 2025!
 - **[February 2025]** Our work on multi-level readout classifiers has been accepted at DAC 2025.
 - **[January 2025]** I will be returning to IBM Research for the summer of 2025.
