@@ -6,6 +6,28 @@
 <li>
   <div class="pub-row">
     <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <img src="assets/img/decoder-bench.png" class="teaser img-fluid z-depth-1">
+      <abbr class="badge">IISWC</abbr>
+    </div>
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="">decoder-bench: Benchmarking Decoders for Quantum Error Correction</a></div>
+      <div class="author"><strong>Satvik Maurya</strong>, Joshua Viszlai, Nithin Raveendran, Poulami Das, Swamit Tannu</div>
+      <div class="periodical"><em>IEEE International Symposium on Workload Characterization <strong>(IISWC)</strong>, 2025</em></div>
+      <div class="links">
+<!--         <a href="https://dl.acm.org/doi/10.1145/3695053.3730991" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+        <a href="https://doi.org/10.5281/zenodo.15092177" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+        <a href="https://dblp.org/rec/conf/isca/MauryaT25.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+        <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
+<!--         <a href="https://dblp.org/rec/journals/corr/abs-2405-08982" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+<!--         <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
+      </div>
+    </div>
+  </div>
+  </li>
+  
+<li>
+  <div class="pub-row">
+    <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <img src="assets/img/sync.png" class="teaser img-fluid z-depth-1">
       <abbr class="badge">ISCA</abbr>
     </div>
