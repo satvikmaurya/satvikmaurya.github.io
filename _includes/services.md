@@ -9,6 +9,7 @@
 <h4 style="margin:0 10px 0;">Program Committee</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://tqe.ieee.org/"><autocolor>(Reviewer) ACM Transactions on Quantum Computing</autocolor></a></li>
   <li><a href="https://hpca-conf.org/2026/"><autocolor>(Reviewer) IEEE International Symposium on High-Performance Computer Architecture (HPCA 2026) </autocolor></a></li>
   <li><a href="https://acm-qsec.com/"><autocolor>(Reviewer) Quantum Security and Privacy Workshop (ACM QSec 2025) </autocolor></a></li>
   <li><a href="https://tqe.ieee.org/"><autocolor>(Reviewer) IEEE Transactions on Quantum Engineering</autocolor></a></li>
