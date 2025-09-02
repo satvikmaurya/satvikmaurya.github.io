@@ -28,6 +28,6 @@ Outside of research, I enjoy biking, gaming (I love playing Counter-Strike), rea
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
-
 {% include_relative _includes/awards.md %}
+
+{% include_relative _includes/services.md %}
