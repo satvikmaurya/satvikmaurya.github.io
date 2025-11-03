@@ -23,6 +23,7 @@ body {
   height: fit-content;
   background: transparent;
   padding: 0;
+  padding-top: 4rem;  /* Add initial gap from top */
   text-align: center;
   align-self: flex-start;
 }
@@ -175,6 +176,21 @@ body {
   font-family: inherit;
 }
 
+.leaflet-control-zoom a {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  border: 1px solid #cccccc !important;
+}
+
+.leaflet-control-zoom a:hover {
+  background-color: #f4f4f4 !important;
+}
+
+.leaflet-control-attribution {
+  background-color: rgba(255, 255, 255, 0.8) !important;
+  color: #000000 !important;
+}
+
 /* Footer */
 footer {
   margin-top: 3rem;
@@ -208,6 +224,7 @@ footer small {
     position: relative;
     top: 0;
     width: 100%;
+    padding-top: 0;  /* Remove top padding on mobile */
   }
 
   .main-content {
