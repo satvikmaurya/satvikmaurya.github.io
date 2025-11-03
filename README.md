@@ -1,3 +1,3 @@
 My personal webpage.
 
-This template was borrowed from https://github.com/yaoyao-liu/yaoyao-liu.github.io. 
+This style was borrowed from [https://github.com/vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css). 
