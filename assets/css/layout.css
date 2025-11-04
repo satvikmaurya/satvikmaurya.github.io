@@ -164,6 +164,38 @@ body {
   color: #ffffff;
 }
 
+/* Publications styling - with left venue sidebar */
+.publications {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.publication-item {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.pub-venue {
+  flex-shrink: 0;
+  width: 100px;
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #ffffff;
+  text-align: right;
+  padding-top: 0.2rem;
+}
+
+.pub-details {
+  flex: 1;
+}
+
+.pub-details p {
+  margin: 0;
+  line-height: 1.6;
+}
+
 /* Map styling */
 #map {
   height: 400px;
@@ -231,5 +263,18 @@ footer small {
     width: 90%;
     max-width: 600px;
     min-width: 0;
+  }
+}
+
+/* Responsive - stack publications on mobile */
+@media (max-width: 768px) {
+  .publication-item {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .pub-venue {
+    text-align: left;
+    width: auto;
   }
 }
